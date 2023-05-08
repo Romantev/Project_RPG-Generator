@@ -78,7 +78,7 @@ input::-webkit-slider-thumb {
   background: linear-gradient(90deg, #000, blue);
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   h1 {
     font-size: 10vw;
   }
